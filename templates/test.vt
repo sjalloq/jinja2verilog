@@ -1,0 +1,5 @@
+{% extends "module.vt" %}
+{% block test %}
+   Hi
+   {{m.registers}}
+{% endblock %}
